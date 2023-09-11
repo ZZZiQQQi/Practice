@@ -29,5 +29,7 @@ public class StringTest_1 {
 
         System.out.println("main 分支做修改");
         System.out.println("main 分支再次做修改");
+
+        System.out.println("其他人对feature分支做了修改");
     }
 }

@@ -12,5 +12,6 @@ public class StringTest_1 {
         System.out.println("哈哈哈");
         System.out.println("呵呵");
         System.out.println("嘻嘻");
+        System.out.println("嗯嗯");
     }
 }

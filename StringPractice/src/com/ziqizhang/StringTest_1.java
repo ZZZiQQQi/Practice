@@ -18,6 +18,8 @@ public class StringTest_1 {
 
         System.out.println("feature2分支进行修改");
 
+        System.out.println("feature3分支修改，并且用main分支Merge feature3分支");
+
         System.out.println("冲突发生在local分支并未更新而远程项目已更新的情况下");
     }
 }

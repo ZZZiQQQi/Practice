@@ -17,5 +17,7 @@ public class StringTest_1 {
         System.out.println("模拟远程仓库main分支经过修过修改,然后用本地分支merge主分支");
 
         System.out.println("feature2分支进行修改");
+
+        System.out.println("feature3分支修改，并且用main分支Merge feature3分支");
     }
 }

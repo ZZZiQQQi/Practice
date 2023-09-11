@@ -18,6 +18,6 @@ public class StringTest_1 {
 
         System.out.println("feature2分支进行修改");
 
-        System.out.println("测试冲突");
+        System.out.println("冲突发生在local分支并未更新而远程项目已更新的情况下");
     }
 }

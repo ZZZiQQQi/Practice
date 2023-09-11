@@ -9,7 +9,7 @@ package com.ziqizhang;
  */
 public class StringTest_1 {
     public static void main(String[] args) {
-        System.out.println("哈哈哈");
+        System.our.println("分支3进行修改");
         System.out.println("呵呵");
         System.out.println("feature2分支进行修改");
         System.out.println("嗯嗯");
